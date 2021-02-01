@@ -28,6 +28,8 @@
     "@cucumber/cucumber": "^7.0.0",
     "@serenity-js/protractor": "^2.22.0",
     "async": "^3.2.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
     "cucumber-html-reporter": "^5.3.0",
     "protractor": "^7.0.0",
     "react": "^17.0.1",
