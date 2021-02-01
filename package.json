@@ -1,0 +1,38 @@
+{
+  "name": "protractor_cucumber_framework_boilerplate",
+  "version": "1.0.0",
+  "description": "protractor cucumber framework using typescript with page object pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivaDixit/protractor-cucumber-typescript.git"
+  },
+  "keywords": [
+    "protractor",
+    "cucumber",
+    "protractor-cucumber-typescript-framework"
+  ],
+  "author": "SivaDixit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SivaDixit/protractor-cucumber-typescript/issues"
+  },
+  "homepage": "https://github.com/SivaDixit/protractor-cucumber-typescript#readme",
+  "dependencies": {
+    "@types/react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
+    "@serenity-js/protractor": "^2.22.0",
+    "async": "^3.2.0",
+    "cucumber-html-reporter": "^5.3.0",
+    "protractor": "^7.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tsc-node": "0.0.3",
+    "typescript": "^4.1.3"
+  }
+}
